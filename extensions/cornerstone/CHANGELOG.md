@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.12.4-alpha.0](https://github.com/OHIF/Viewers/compare/@ohif/extension-cornerstone@2.12.3...@ohif/extension-cornerstone@2.12.4-alpha.0) (2022-01-13)
+
+**Note:** Version bump only for package @ohif/extension-cornerstone
+
+
+
+
+
+
 ## [2.12.3](https://github.com/OHIF/Viewers/compare/@ohif/extension-cornerstone@2.12.2...@ohif/extension-cornerstone@2.12.3) (2021-12-02)
 
 **Note:** Version bump only for package @ohif/extension-cornerstone
