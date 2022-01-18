@@ -34,6 +34,7 @@ const reload = () => window.location.reload();
 const ROUTES_DEF = {
   default: {
     viewer: {
+      //path: ['/viewer/:studyInstanceUids', '/'],
       path: '/viewer/:studyInstanceUIDs',
       component: ViewerRouting,
     },
@@ -42,6 +43,7 @@ const ROUTES_DEF = {
       component: StandaloneRouting,
     },
     list: {
+      //path: ['/studylist'],
       path: ['/studylist', '/'],
       component: StudyListRouting,
       condition: appConfig => {
